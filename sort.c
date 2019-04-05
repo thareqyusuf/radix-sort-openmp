@@ -2,7 +2,16 @@
 #include <stdio.h>
 #include "mpi.h"
 
+// A utility function to print an array
+void print(int arr[], int n)
+{
+	for (int i = 0; i < n; i++)
+		printf("%d ", arr[i]);
+	printf("\n");
+}
+
 // A utility function to get maximum value in arr[]
+
 int getMax(int arr[], int n)
 {
 	// RANK
@@ -122,13 +131,7 @@ void radixsort(int arr[], int n)
 	// }
 }
 
-// A utility function to print an array
-void print(int arr[], int n)
-{
-	for (int i = 0; i < n; i++)
-		printf("%d ", arr[i]);
-	printf("\n");
-}
+
 
 // Driver program to test above functions
 int main(int argc, char *argv[])
