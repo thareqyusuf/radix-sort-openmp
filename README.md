@@ -31,27 +31,27 @@ Thareq Muhammad Yusuf Hasnul Aziz - 13516004 : Parallel radix sort dengan OpenMP
  <br />
  
  #### Thread 5000 :
- Waktu Radix Sort Serial = microsecond
+ Waktu Radix Sort Serial = microsecond <br />
  Waktu Radix Sort Parallel = microsecond
  <br />
  
   #### Thread 50000 :
- Waktu Radix Sort Serial = microsecond
+ Waktu Radix Sort Serial = microsecond <br />
  Waktu Radix Sort Parallel = microsecond
  <br />
  
   #### Thread 100000 :
- Waktu Radix Sort Serial = microsecond
+ Waktu Radix Sort Serial = microsecond <br />
  Waktu Radix Sort Parallel = microsecond
  <br />
  
   #### Thread 200000 :
- Waktu Radix Sort Serial = microsecond
+ Waktu Radix Sort Serial = microsecond <br />
  Waktu Radix Sort Parallel = microsecond
  <br />
  
   #### Thread 400000 :
- Waktu Radix Sort Serial = microsecond
+ Waktu Radix Sort Serial = microsecond <br />
  Waktu Radix Sort Parallel = microsecond
  <br />
  
